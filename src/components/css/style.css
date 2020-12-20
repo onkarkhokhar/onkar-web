@@ -1,0 +1,8 @@
+.to-right {
+    margin-left: auto;
+    border-color: black;
+}
+.to-right-git {
+    margin-left: '50px';
+    border-color: black;
+}
